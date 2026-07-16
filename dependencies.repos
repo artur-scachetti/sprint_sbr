@@ -1,0 +1,5 @@
+repositories:
+  vrx:
+    type: git
+    url: https://github.com/osrf/vrx.git
+    version: main
